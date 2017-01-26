@@ -10,6 +10,6 @@ Then, the network will try to restore the original pattern. <br>
 Press 'A' to see the original pattern. <br>
 Restart with microbit to set new patterns and learn again. <br>
 
-<img src="microbit_hopfield.gif" alt="HTML5 Icon" style="width:128px;height:128px;">
+<img src="microbit_hopfield.gif" style="width:80px;height:80px;">
 
 Visualization using the <a href="http://blog.withcode.uk/2016/05/microbit-python-simulator/">microbit-python-simulator</a>
